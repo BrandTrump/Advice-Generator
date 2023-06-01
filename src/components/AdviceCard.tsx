@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "../styles/AdviceCard.css";
+import "../styles/AdviceCard.scss";
 import dice from "../assets/dice.svg";
 
 type Advice = {
